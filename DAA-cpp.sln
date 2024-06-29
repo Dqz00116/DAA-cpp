@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DAA-cpp", "DAA-cpp.vcxproj"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter1", "Chapter1\Chapter1.vcxproj", "{E85D0C54-5080-4FBC-BB4C-7C728D1FF212}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoogleTest", "GoogleTest\GoogleTest.vcxproj", "{EB960A43-B957-4CE3-95A3-4DA79A4A638B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -30,6 +32,14 @@ Global
 		{E85D0C54-5080-4FBC-BB4C-7C728D1FF212}.Release|x64.Build.0 = Release|x64
 		{E85D0C54-5080-4FBC-BB4C-7C728D1FF212}.Release|x86.ActiveCfg = Release|Win32
 		{E85D0C54-5080-4FBC-BB4C-7C728D1FF212}.Release|x86.Build.0 = Release|Win32
+		{EB960A43-B957-4CE3-95A3-4DA79A4A638B}.Debug|x64.ActiveCfg = Debug|x64
+		{EB960A43-B957-4CE3-95A3-4DA79A4A638B}.Debug|x64.Build.0 = Debug|x64
+		{EB960A43-B957-4CE3-95A3-4DA79A4A638B}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB960A43-B957-4CE3-95A3-4DA79A4A638B}.Debug|x86.Build.0 = Debug|Win32
+		{EB960A43-B957-4CE3-95A3-4DA79A4A638B}.Release|x64.ActiveCfg = Release|x64
+		{EB960A43-B957-4CE3-95A3-4DA79A4A638B}.Release|x64.Build.0 = Release|x64
+		{EB960A43-B957-4CE3-95A3-4DA79A4A638B}.Release|x86.ActiveCfg = Release|Win32
+		{EB960A43-B957-4CE3-95A3-4DA79A4A638B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
