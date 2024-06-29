@@ -1,8 +1,11 @@
 #include "Chapter1.h"
 
-
-int main(int argc, char* argv[])
+namespace daa
 {
-    
-    return 0;
+    void swap(int& x, int& y) noexcept
+    {
+        const int temp = x;
+        x = y;
+        y = temp; 
+    }
 }
